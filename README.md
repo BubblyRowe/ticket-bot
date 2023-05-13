@@ -1,3 +1,5 @@
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
 # Ticket Bot
 
 Ticket Bot is a discord ticket bot with buttons made with Discord.js v13
